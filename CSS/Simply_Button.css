@@ -36,8 +36,8 @@
 }
 
 .hvr-float-shadow:hover, .hvr-float-shadow:focus, .hvr-float-shadow:active {
-    -webkit-transform: translateY(-5px);
-    transform: translateY(-5px);
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
 }
 
 .hvr-rectangle-out {
