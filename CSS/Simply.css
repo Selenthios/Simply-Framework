@@ -38,3 +38,6 @@ img {
   max-width: 100%;
   height: auto;
 }
+o-fit-cover {
+ object-fit: cover;
+}
