@@ -88,3 +88,24 @@ h6,
 .h6 {
   font-size: 12px;
 }
+.tleft {
+  text-align: left;
+}
+.tright {
+  text-align: right;
+}
+.tcenter {
+  text-align: center;
+}
+.tjustify {
+  text-align: justify;
+}
+.tlowercase {
+  text-transform: lowercase;
+}
+.tuppercase {
+  text-transform: uppercase;
+}
+.tcapitalize {
+  text-transform: capitalize;
+}
